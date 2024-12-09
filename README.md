@@ -11,7 +11,7 @@ Using the trained score network we can sample data from the distribution using A
 The notebook presents various content and unsuccessfully tried to exhibit a corner case for the presented method. The idea was to nestle a ring within a bigger ring hoping that starting the sampling from any point in space, the outer ring would attract more points ans thus bias the sampling from the true distribution.
 Despite being unsuccessful, it showed at least the major role of the langevin noise in slow mixing between the different components of the distribution. 
 
-Here is the [report](Reports.pdf) of our class project cowritten with Hanna Benarroch and Virgile Richard
+Here is the [report](Report.pdf) of our class project cowritten with Hanna Benarroch and Virgile Richard
 
 
 Key resources:
